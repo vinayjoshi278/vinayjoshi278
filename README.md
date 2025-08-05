@@ -11,8 +11,7 @@
 - 💼 Currently building frontend projects and learning backend technologies.
 - 🎯 Passionate about clean code, UI/UX, and full-stack development.
 - 🚀 Learning: TypeScript, React, Next.js, Tailwind CSS, Node.js, MongoDB
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/yourhandle)
-- ⚡ Fun fact: I come from a commerce background but love solving engineering problems.
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile) 
 
 ---
 
