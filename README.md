@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vinay Joshi</h1>
 
 <p align="center">
-  Self-taught Full-Stack Developer | Lifelong Learner | BCom Student turned Engineer
+  Self-taught Full-Stack Developer | Lifelong Learner | Wanna do something big
 </p>
 
 ---
@@ -45,9 +45,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/vinay-joshi-577a66307/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
 </p>
 
 ---
