@@ -1,33 +1,61 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hi there 👋, I'm Vinay Joshi</h1>
 
-### <div align="center">  
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+<p align="center">
+  Self-taught Full-Stack Developer | Lifelong Learner | BCom Student turned Engineer
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 💼 Currently building frontend projects and learning backend technologies.
+- 🎯 Passionate about clean code, UI/UX, and full-stack development.
+- 🚀 Learning: TypeScript, React, Next.js, Tailwind CSS, Node.js, MongoDB
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/yourhandle)
+- ⚡ Fun fact: I come from a commerce background but love solving engineering problems.
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayjoshi&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayjoshi&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayjoshi&layout=compact&theme=radical" height="150" />
 </div>
 
-### <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" />
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinayjoshi&theme=algolia&no-frame=true&column=6" />
 </div>
 
-### <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinayjoshi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=vinayjoshi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" />
-</div>
+---
 
-### <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph.svg" />
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+</p>
+
+---
+
+### 🎮 Contribution Graph (just for fun)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph.svg">
+  <img alt="Vinay's contribution graph" src="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph.svg">
 </picture>
