@@ -11,7 +11,7 @@
 - 💼 Currently building frontend projects and learning backend technologies.
 - 🎯 Passionate about clean code, UI/UX, and full-stack development.
 - 🚀 Learning: TypeScript, React, Next.js, Tailwind CSS, Node.js, MongoDB
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vinay-joshi-577a66307/)
 
 ---
 
