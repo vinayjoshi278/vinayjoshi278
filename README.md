@@ -48,11 +48,3 @@
 </p>
 
 ---
-
-### 🎮 Contribution Graph (just for fun)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph.svg">
-  <img alt="Vinay's contribution graph" src="https://raw.githubusercontent.com/vinayjoshi/vinayjoshi/output/pacman-contribution-graph.svg">
-</picture>
