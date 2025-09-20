@@ -40,16 +40,6 @@ I am a **Frontend Engineer** passionate about building **high-performance, respo
 
 ---
 
-## 🌟 Projects & Highlights
-| Project | Tech Stack | Description | Link |
-|---------|------------|------------|------|
-| **YouTube Clone** | HTML, CSS, JS | Fully responsive clone of YouTube with dynamic UI and hover effects | [GitHub](https://github.com/yourgithub/youtube-clone) |
-| **Amazon Clone** | HTML, CSS, JS | Responsive e-commerce clone with product filtering & cart functionality | [GitHub](https://github.com/yourgithub/amazon-clone) |
-| **Restaurant Website** | HTML, CSS | Fully responsive website with smooth hover effects and animations | [GitHub](https://github.com/yourgithub/restaurant-website) |
-| **Blog Platform** | HTML, CSS | Fully responsive blogging website with modern design | [GitHub](https://github.com/yourgithub/blog-website) |
-
----
-
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I+love+building+frontend+apps;I+experiment+with+animations;I+solve+challenging+UI+problems&font=Fira+Code&size=22&color=FF5722)
 
 ![Frontend Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
