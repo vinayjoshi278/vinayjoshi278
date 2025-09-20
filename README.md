@@ -47,7 +47,7 @@ I am a **Frontend Engineer** passionate about building **high-performance, respo
 ---
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [LinkedIn](https://www.linkedin.com/in/vinay-joshi-577a66307/)  
 - [Email](mailto:vinayj351@gmail.com)  
 
 ---
