@@ -40,7 +40,7 @@ I am a **Frontend Engineer** passionate about building **high-performance, respo
 
 ---
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I+love+building+frontend+apps;I+experiment+with+animations;I+solve+challenging+UI+problems&font=Fira+Code&size=22&color=FF5722)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I+love+coding;I+love+problem+solving;&font=Fira+Code&size=22&color=FF5722)
 
 ![Frontend Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 
