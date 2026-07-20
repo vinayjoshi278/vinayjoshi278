@@ -1,61 +1,97 @@
-# 👋 Hi, I’m Vinay Joshi  
-### Frontend Engineer | Web Developer | UI/UX Enthusiast  
+<h1 align="center">Vinay Joshi</h1>
+<p align="center">Frontend Engineer building fast, accessible, and maintainable web applications.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinayj351@gmail.com)  
-
----
-
-## 🔭 About Me
-I am a **Frontend Engineer** passionate about building **high-performance, responsive, and accessible web applications**. I love turning complex designs into interactive, pixel-perfect experiences.  
-
-- 💻 Strong in **HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Angular, TailwindCSS, Bootstrap**  
-- 🎨 Enthusiastic about **UI/UX design, accessibility, and responsive layouts**  
-- 🚀 Experienced in **building scalable, maintainable frontend applications**  
-- 🌱 Always learning **modern frontend patterns, advanced JavaScript, and performance optimization**  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### About
 
-### **Languages & Tools**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+I build user interfaces that are fast, accessible, and easy to maintain at scale. My focus is on the frontend — component architecture, state management, rendering performance, and the details that make an interface feel solid rather than assembled.
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+I care about how a codebase ages: naming that holds up six months later, components that don't need a rewrite when requirements shift, and UI that performs the same on a low-end device as it does on a MacBook.
 
-### **Version Control & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Currently working on **[what you're building right now]**, focused on **[the specific problem — e.g. reducing bundle size, improving Core Web Vitals, building a design system]**.
 
 ---
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I+love+coding;I+love+problem+solving;&font=Fira+Code&size=22&color=FF5722)
+### Engineering Philosophy
 
-![Frontend Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-
----
-
-## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/vinay-joshi-577a66307/)  
-- [Email](mailto:vinayj351@gmail.com)  
+- **Simplicity first** — the simplest solution that fully solves the problem, not the cleverest one
+- **Performance is a feature** — I measure before I optimize, and I optimize what users actually feel
+- **Accessibility isn't optional** — semantic HTML and keyboard/screen-reader support are part of "done," not a follow-up ticket
+- **Code is read more than it's written** — I optimize for the next engineer, including future me
+- **Small, reviewable changes** — I'd rather ship ten small PRs than one that's hard to review
 
 ---
 
-### ⚡ Fun Fact
-- I love building **interactive UI experiences** and **solving challenging frontend problems**.  
-- Always experimenting with **animations, transitions, and modern web technologies**.  
+### Tech Stack
+
+**Languages**
+`JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3`
+
+**Frontend**
+`React` `Angular` `Tailwind CSS` `Bootstrap`
+
+**Backend**
+`[Add if applicable — e.g. Node.js, Express]`
+
+**Databases**
+`[Add if applicable — e.g. MongoDB, PostgreSQL]`
+
+**Cloud & DevOps**
+`[Add if applicable — e.g. AWS, Vercel, Docker, GitHub Actions]`
+
+**Testing**
+`[Add if applicable — e.g. Jest, React Testing Library, Cypress]`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Figma`
 
 ---
 
-> “Strive for perfection in code, but ship with passion.” 🚀
+### Projects
+
+Replace these with your 2–4 strongest projects. Every project below needs the specifics filled in — a generic README with vague project descriptions reads worse than fewer, well-documented ones.
+
+#### [Project Name]
+One line describing what it does and who it's for.
+
+- **Stack:** `[Technologies used]`
+- **Engineering challenge:** [The specific hard problem — e.g. "Reduced initial load time from 4.2s to 1.1s by code-splitting routes and lazy-loading below-the-fold components," or "Designed a normalized state shape to keep a 200+ component dashboard re-render-free"]
+- **Links:** [GitHub](#) · [Live Demo](#)
+
+#### [Project Name]
+One line describing what it does and who it's for.
+
+- **Stack:** `[Technologies used]`
+- **Engineering challenge:** [Specific, measurable, technical — not "built a responsive UI"]
+- **Links:** [GitHub](#) · [Live Demo](#)
+
+---
+
+### What I'm Learning
+
+`[e.g. System design fundamentals]` `[e.g. Next.js Server Components]` `[e.g. Performance profiling at scale]`
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api?username=vinayjoshi278&show_icons=true&hide_border=true&theme=default&hide=stars,contribs" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinayjoshi278&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+</p>
+
+---
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://YOUR-PORTFOLIO.com)
