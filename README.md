@@ -87,11 +87,11 @@ One line describing what it does and who it's for.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinayjoshi278&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinayjoshi278&show_icons=true&hide_border=true&theme=default&hide=stars,contribs" alt="GitHub Stats"/>
 </p>
 
----
 
+--
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://YOUR-PORTFOLIO.com)
