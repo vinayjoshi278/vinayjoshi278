@@ -82,6 +82,13 @@ One line describing what it does and who it's for.
 
 ### GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api?username=vinay-joshi-dev&show_icons=true&hide_border=true&theme=default&hide=stars,contribs" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinay-joshi-dev&show_icons=true&hide_border=true&theme=default&hide=stars,contribs" alt="GitHub Stats"/>
+</p>
 
 
 --
