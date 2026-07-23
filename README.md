@@ -91,4 +91,4 @@ One line describing what it does and who it's for.
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://YOUR-PORTFOLIO.com)
+<!--[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://YOUR-PORTFOLIO.com) -->
