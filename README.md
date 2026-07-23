@@ -32,11 +32,12 @@ Currently working on **[what you're building right now]**, focused on **[the spe
 ### Tech Stack
 
 **Languages**
-`JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3`
+`JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3`
 
 **Frontend**
-`React` `Angular` `Tailwind CSS` `Bootstrap`
+`React`, `Angular`, `Tailwind CSS`, `Bootstrap`
 
+<!--
 **Backend**
 `[Add if applicable — e.g. Node.js, Express]`
 
@@ -48,11 +49,13 @@ Currently working on **[what you're building right now]**, focused on **[the spe
 
 **Testing**
 `[Add if applicable — e.g. Jest, React Testing Library, Cypress]`
+-->
 
 **Tools**
-`Git` `GitHub` `VS Code` `Figma`
+`Git`, `GitHub`, `VS Code`, `Figma`
 
 ---
+<!--
 
 ### Projects
 
@@ -73,25 +76,19 @@ One line describing what it does and who it's for.
 - **Links:** [GitHub](#) · [Live Demo](#)
 
 ---
-
+-->
 ### What I'm Learning
 
-`[e.g. System design fundamentals]` `[e.g. Next.js Server Components]` `[e.g. Performance profiling at scale]`
+`System Design Fundamentals` • `Advanced React Patterns` • `Next.js App Router & Server Components` • `Node.js & Express.js` • `REST APIs` • `MongoDB Performance & Indexing` • `Authentication (JWT & OAuth)` • `Docker` • `CI/CD with GitHub Actions` • `AWS Basics`
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api?username=vinay-joshi-dev&show_icons=true&hide_border=true&theme=default&hide=stars,contribs" alt="GitHub Stats"/>
-</p>
+| | |
+|:---:|:---:|
+| <img src="https://github-readme-stats-tau-sage-68.vercel.app/api?username=vinay-joshi-dev&show_icons=true&hide_border=true&hide=stars,contribs,prs,issues&count_private=true&include_all_commits=true&hide_rank=true&title_color=fff&text_color=fff&bg_color=0d1117" alt="GitHub Stats"/> | <img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinay-joshi-dev&layout=compact&hide_border=true&count_private=true&langs_count=8&title_color=fff&text_color=fff&bg_color=0d1117" alt="Top Languages"/> |
 
-<p align="center">
-  <img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinay-joshi-dev&show_icons=true&hide_border=true&theme=default&hide=stars,contribs" alt="GitHub Stats"/>
-</p>
-
-
---
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://YOUR-PORTFOLIO.com)
