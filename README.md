@@ -85,9 +85,7 @@ One line describing what it does and who it's for.
 
 ### GitHub Stats
 
-| | |
-|:---:|:---:|
-| <img src="https://github-readme-stats-tau-sage-68.vercel.app/api?username=vinay-joshi-dev&show_icons=true&hide_border=true&hide=stars,contribs,prs,issues&count_private=true&include_all_commits=true&hide_rank=true&title_color=fff&text_color=fff&bg_color=0d1117" alt="GitHub Stats"/> | <img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinay-joshi-dev&layout=compact&hide_border=true&count_private=true&langs_count=8&title_color=fff&text_color=fff&bg_color=0d1117" alt="Top Languages"/> |
+<img src="https://github-readme-stats-tau-sage-68.vercel.app/api/top-langs/?username=vinay-joshi-dev&layout=compact&hide_border=true&count_private=true&langs_count=8&title_color=fff&text_color=fff&bg_color=0d1117" alt="Top Languages"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;Building+fast%2C+accessible+web+apps)
 <!--
